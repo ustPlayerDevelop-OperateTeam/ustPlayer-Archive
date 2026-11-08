@@ -1,3 +1,7 @@
+> [!CAUTION]
+>
+> 由于部分原因，此仓库将存档。
+
 <div align="center">
 
 <image src="icon.png" height="90" width="90"/>
